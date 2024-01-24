@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fang Chen (谌放)</title>
+  <title>Fang Chen</title>
   
   
   <link href="https://c-fun.github.io/atom.xml" rel="self"/>
   
   <link href="https://c-fun.github.io/"/>
-  <updated>2024-01-24T02:33:31.445Z</updated>
+  <updated>2024-01-24T07:11:37.506Z</updated>
   <id>https://c-fun.github.io/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <title>About</title>
     <link href="https://c-fun.github.io/2024/01/23/About/"/>
     <id>https://c-fun.github.io/2024/01/23/About/</id>
-    <published>2024-01-23T23:45:46.000Z</published>
-    <updated>2024-01-24T02:33:31.445Z</updated>
+    <published>2024-01-24T07:00:00.000Z</published>
+    <updated>2024-01-24T07:11:37.506Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h1><p> I am a first-year CS Ph.D. student at EECS of University of California Merced, supervised by <a href="http://mengtang.org/">Prof. Meng Tang</a>. </p><p> Previously, I received my M.S. degree in Electrical Engineering at University of Southern California, working with <a href="https://sites.usc.edu/eessc/">EESSC</a>.<br> I received my B.S. degree in Digital Media Technology at Chongqing University of Posts and Telecommunications, supervised by <a href="https://gaocq.github.io/">Prof. Chenqiang Gao</a>.</p><p> My research interests are computer vision and efficient deep learning. More specifically,</p><ul><li>Generative Vision-Language Models</li><li>Efficient Deep Learning</li><li>Neural Architecture Search</li><li>Infrared Image Processing</li><li>Small Object Detection</li></ul><p><strong>I am actively looking for Research Internship in Summer 2024.</strong></p><hr><h3 id="News"><a href="#News" class="headerlink" title="News"></a>News</h3><ul><li>One paper accepted by AAAI Edge Intelligence workshop 2024.</li><li>One paper accepted by IEEE Transactions on Image Processing.</li><li>Best Masters Poster Award of the 11th Annual Research Festival by USC Ming Hsieh Institute.</li></ul><hr><h3 id="Internships"><a href="#Internships" class="headerlink" title="Internships"></a>Internships</h3><ul><li><a href="https://www.intel.com/content/www/us/en/research/ai.html">Intel AI Lab</a> (May 2022 - Jan. 2023)</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h1><p> I am a first-year CS Ph.D. student at EECS of University of California Merced, supervised by <a href="http://mengtang.org/">Prof. Meng Tang</a>. </p><p> Previously, I received my M.S. degree in Electrical Engineering at University of Southern California, working with <a href="https://sites.usc.edu/eessc/">EESSC</a>.<br> I received my B.S. degree in Digital Media Technology at Chongqing University of Posts and Telecommunications, supervised by <a href="https://gaocq.github.io/">Prof. Chenqiang Gao</a>.</p><p> My research interests are computer vision and efficient deep learning. More specifically,</p><ul><li>Generative Vision-Language Models</li><li>Efficient Deep Learning</li><li>Neural Architecture Search</li><li>Infrared Image Processing</li><li>Small Object Detection</li></ul><p><strong>I am actively looking for Research Internship in Summer 2024.</strong></p><hr><h3 id="Latest-News"><a href="#Latest-News" class="headerlink" title="Latest News"></a>Latest News</h3><ul><li>One paper accepted by AAAI Edge Intelligence workshop 2024.</li><li>One paper accepted by IEEE Transactions on Image Processing.</li><li>Best Masters Poster Award of the 11th Annual Research Festival by USC Ming Hsieh Institute.</li></ul>]]></content>
     
     
       
