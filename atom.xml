@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fang Chen</title>
+  <title>Fang Chen (谌放)</title>
   
   
   <link href="https://c-fun.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://c-fun.github.io/</id>
   
   <author>
-    <name>Fang Chen (谌放)</name>
+    <name>Fang Chen</name>
     
   </author>
   
