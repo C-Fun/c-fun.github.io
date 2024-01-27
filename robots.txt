@@ -12,4 +12,3 @@ Disallow: /fonts/
 Disallow: /lib/
 
 Sitemap: https://c-fun.github.io/sitemap.xml
-Sitemap: https://c-fun.github.io/baidusitemap.xml
