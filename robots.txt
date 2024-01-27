@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /2024/
 Allow: /archives/
 Allow: /attaches/
 Allow: /Publications/
