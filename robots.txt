@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /2024/
+Allow: /archives/
+Allow: /attaches/
+Allow: /Publications/
+Allow: /Experience/
+Allow: /Teaching/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /lib/
+
+Sitemap: https://c-fun.github.io/sitemap.xml
+Sitemap: https://c-fun.github.io/baidusitemap.xml
