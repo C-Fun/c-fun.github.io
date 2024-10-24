@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://c-fun.github.io/Publications/index.html</loc>
+    <loc>https://c-fun.github.io/Teaching/index.html</loc>
     
     <lastmod>2024-10-24</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://c-fun.github.io/Teaching/index.html</loc>
+    <loc>https://c-fun.github.io/Publications/index.html</loc>
     
-    <lastmod>2024-09-06</lastmod>
+    <lastmod>2024-10-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
